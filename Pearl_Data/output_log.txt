@@ -1,0 +1,201 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     1642 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\zahed\Documents\Spring17\spring 2017 hackathon\pearl hack\PearlHackDemo\Pearl_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\zahed\Documents\Spring17\spring 2017 hackathon\pearl hack\PearlHackDemo\Pearl_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\zahed\Documents\Spring17\spring 2017 hackathon\pearl hack\PearlHackDemo\Pearl_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\zahed\Documents\Spring17\spring 2017 hackathon\pearl hack\PearlHackDemo\Pearl_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\zahed\Documents\Spring17\spring 2017 hackathon\pearl hack\PearlHackDemo\Pearl_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\zahed\Documents\Spring17\spring 2017 hackathon\pearl hack\PearlHackDemo\Pearl_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\zahed\Documents\Spring17\spring 2017 hackathon\pearl hack\PearlHackDemo\Pearl_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\zahed\Documents\Spring17\spring 2017 hackathon\pearl hack\PearlHackDemo\Pearl_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.340 seconds
+Platform assembly: C:\Users\zahed\Documents\Spring17\spring 2017 hackathon\pearl hack\PearlHackDemo\Pearl_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\zahed\Documents\Spring17\spring 2017 hackathon\pearl hack\PearlHackDemo\Pearl_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.690467 ms
+here 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here inside UnlockQuest2() 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+   ->60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here inside UnlockQuest2() 40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here insideif  UnlockQuest2() 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here inside UnlockQuest2() 40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 11dc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.491083 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.407282 ms (FindLiveObjects: 0.033123 ms CreateObjectMapping: 0.016328 ms MarkObjects: 0.345233 ms  DeleteObjects: 0.012129 ms)
+
+flag  1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+flag  2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+flag  3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+flag  4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.769778 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 321.
+Total: 0.409615 ms (FindLiveObjects: 0.035456 ms CreateObjectMapping: 0.015395 ms MarkObjects: 0.341968 ms  DeleteObjects: 0.016328 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.583165 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 0.361095 ms (FindLiveObjects: 0.045720 ms CreateObjectMapping: 0.020060 ms MarkObjects: 0.284584 ms  DeleteObjects: 0.009797 ms)
+
+here 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here inside UnlockQuest2() 40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StartLevel2.UnlockQuest2 () [0x00000] in <filename unknown>:0 
+  at StartLevel2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+   ->60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here inside UnlockQuest2() 40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here insideif  UnlockQuest2() 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here inside UnlockQuest2() 40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.634483 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.403550 ms (FindLiveObjects: 0.028924 ms CreateObjectMapping: 0.016328 ms MarkObjects: 0.344767 ms  DeleteObjects: 0.012596 ms)
+
+flag  1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+flag  2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+flag  3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+flag  4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.748317 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 309.
+Total: 0.499655 ms (FindLiveObjects: 0.043387 ms CreateObjectMapping: 0.024726 ms MarkObjects: 0.417079 ms  DeleteObjects: 0.013529 ms)
+
+here 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here inside UnlockQuest2() 40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StartLevel2.UnlockQuest2 () [0x00000] in <filename unknown>:0 
+  at StartLevel2.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+   ->60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here inside UnlockQuest2() 40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here insideif  UnlockQuest2() 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here inside UnlockQuest2() 40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+inside gameExit()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+

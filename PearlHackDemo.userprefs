@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\GameStatus.cs">
+    <Files>
+      <File FileName="Assets\Script\FRConsController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\StartLevel2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\FRIntroController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\FRCautionController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SharePictureController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UpdateScore.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\HomeController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameStatus.cs" Line="8" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
